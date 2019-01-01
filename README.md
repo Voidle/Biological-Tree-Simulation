@@ -59,4 +59,4 @@ Life of tree over change of environment and how it affects the tree by any means
 Fruits and Flowers
 
 ## Preview
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Voidle/Biological-Tree-Simulation/blob/master/t.png)

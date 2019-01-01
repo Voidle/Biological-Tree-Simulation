@@ -57,3 +57,6 @@ Direction of tree growth varies depending upon direction of sun. Growth of roots
 Life of tree over change of environment and how it affects the tree by any means like color change of leaves and etc.
 
 Fruits and Flowers
+
+## Preview
+![alt text](http://url/to/img.png)

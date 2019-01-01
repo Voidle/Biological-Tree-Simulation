@@ -1,6 +1,8 @@
 # Biological-Tree-Simulation
 
-## WHAT IS IT?
+Simulation Model of a biological tree in Netlogo
+
+## WHAT IS IT
 
 It's a general representation of biological tree.
 
